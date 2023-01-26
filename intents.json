@@ -1,0 +1,30 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "good morning", "greetings", "what's up?", "how is it going?"],
+    "responses": ["Hello!", "Hey!", "How may I assist you today?"]
+    },
+    {"tag": "goodbye",
+    "patterns":["bye", "see you later", "goodbye", "I am leaving", "see ya", "thanks that is all"],
+    "responses": ["Happy lifting! See you next time!", "May the Gains be with you.", "Bye!"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you?", "what's your name?", "who are you?", "Can you tell me your name?"],
+    "responses": ["You can call me GYMBRO!", "I'm GYMBRO, your personal trainer!", " I'm GYMBRO! Nice to meet you."]
+    },
+    {"tag": "upper chest",
+    "patterns": ["Exercises for upper chest?", "I want to focus on my upper chest.", "Upper chest isolation.", "Upper chest exercies"],
+    "responses": ["Try incline chest press.", "Dumbbell incline press targets the upper chest.", "Give incline dumbell flyes a go to build your upper chest."]
+    }, 
+    {"tag": "lower chest", 
+    "patterns":["Exercises for lower chest?", "I want to focus on my lower chest.", "Lower chest isolation.", "Lower chest exercies"],
+    "responses":["Decline bench press is good for targeting the lower chest.", "Try dips.", "High to low pec flyes are great for building your lower chest"]
+    },
+    {"tag": "chest",
+    "patterns":["Exercises for the chest.", "How to workout the chest?", "How to build a big chest", "Good exercises for the chest.", "It's chest day!"],
+    "responses":["The bench press is king for building a great chest!", "Dumbbell presses are great for working out the chest.", "I personally love pec flyes!"]
+    }, 
+    {"tag": "legs", 
+    "patterns":["It's leg day.", "I want to hit legs today.", "I need to grow my legs!", "I skip leg day a lot.", "Leg exercises?", "What are some good leg exercises?"],
+    "responses":["Barbell squats are superior!", "Split squats are a great choice.", "Leg day isn't complete without barbell squats!", "The leg press is a great movement to add to your leg day.", "Never skip walking lunges on leg day!", "Wanna grow big legs? Try goblet squats!"]
+    }
+]}
