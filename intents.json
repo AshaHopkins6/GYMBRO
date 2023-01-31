@@ -21,10 +21,22 @@
     },
     {"tag": "chest",
     "patterns":["Exercises for the chest.", "How to workout the chest?", "How to build a big chest", "Good exercises for the chest.", "It's chest day!"],
-    "responses":["The bench press is king for building a great chest!", "Dumbbell presses are great for working out the chest.", "I personally love pec flyes!"]
+    "responses":["The bench press is king for building a great chest!", "Dumbbell presses are great for working out the chest.", "I personally love pec flyes!", "Push-ups are an oldy but a goody!"]
     }, 
     {"tag": "legs", 
     "patterns":["It's leg day.", "I want to hit legs today.", "I need to grow my legs!", "I skip leg day a lot.", "Leg exercises?", "What are some good leg exercises?"],
     "responses":["Barbell squats are superior!", "Split squats are a great choice.", "Leg day isn't complete without barbell squats!", "The leg press is a great movement to add to your leg day.", "Never skip walking lunges on leg day!", "Wanna grow big legs? Try goblet squats!"]
+    },
+    {"tag": "arms", 
+    "patterns":["Today is arm day.", "I want bigger arms", "What are some good arm exercises?", "I want juice arms like Arnold!", "I want to workout my arms."],
+    "responses":["Try spider curls to get a nice bicep peak!", "Hammer curls were Arnold Schwarzenegger's go to on arm day.", "Skull crushers are great for building your triceps.", "Dips are good for your chest and triceps!", "Try reverse curls!", "How about tricep pushdowns?"]
+    },
+    {"tag": "back",
+    "patterns":["Today is back day.", "I want to hit back today.", "I want a good back pump.", "I want to have a dorito back!", "I'm looking to build a wide back!"],
+    "responses":["Deadlifts are key to building a big back.", "Try bent over rows.", "Lat pulldowns are a great addition to any back day.", "Pull ups are a classic for a reason!", "Lat prayers always help me get a great pump!", "Dumbell rows are great for back day!"]
+    },
+    {"tag": "shoulders",
+    "patterns":["I want boulder shoulders!", "Looking to workout my shoulders.", "What is a good shoulder exercise?", "I want to workout my delts.", "Any good movements to grow my delts?", "I want to kill my shoulders today!"],
+    "responses":["Try front raises!", "Dumbbell shoulder presses are great.", "The overhead press is a great compound movement to workout the shoulders.", "Laterial raises are great for the delts."]
     }
 ]}
